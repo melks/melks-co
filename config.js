@@ -18,10 +18,6 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6D%65%6C%6B%73%40%68%65%79%2E%63%6F%6D'
     }
   ],
   author: {
@@ -30,14 +26,14 @@ module.exports = {
     bio: 'Passionate Technical Product Manager, with Startup 🚀 and Enterprise 🌏 experience.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
+      facebook: '',
+      telegram: '',
       twitter: 'http://twitter.com/melks',
       github: 'https://github.com/melks',
       rss: '',
       vkontakte: '',
       linkedin: 'https://www.linkedin.com/in/alexmelkonian/',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
