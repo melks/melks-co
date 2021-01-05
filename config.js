@@ -3,12 +3,12 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Alex Melkonian',
+  subtitle: 'Thoughts on tech, future of work, and more.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 2,
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -25,18 +25,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Alex Melkonian',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Passionate Technical Product Manager, with Startup 🚀 and Enterprise 🌏 experience.',
     contacts: {
       email: '',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'http://twitter.com/melks',
+      github: 'https://github.com/melks',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/alexmelkonian/',
       instagram: '#',
       line: '',
       gitlab: '',
